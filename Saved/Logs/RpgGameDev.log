@@ -666,3 +666,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.12-02.08.47:467][702]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.12-02.08.47:467][702]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.09.12-02.08.47:467][702]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.09.12-02.10.15:251][842]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.09.12-02.10.20:965][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.09.12-02.10.20:991][344]LogSavePackage: Moving '../../../../../../Users/Jordan/Documents/Unreal Projects/rpgshit/Saved/ThirdPersonExampleMapCBA119994AACEE196620A6B949194CA0.tmp' to '../../../../../../Users/Jordan/Documents/Unreal Projects/rpgshit/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.09.12-02.10.21:195][344]LogSavePackage: Moving '../../../../../../Users/Jordan/Documents/Unreal Projects/rpgshit/Saved/ThirdPersonExampleMap_BuiltDataFF109D4C4A574795DBEB72B44406651D.tmp' to '../../../../../../Users/Jordan/Documents/Unreal Projects/rpgshit/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.09.12-02.10.21:204][344]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.12-02.10.21:204][344]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.09.12-02.10.21:204][344]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
