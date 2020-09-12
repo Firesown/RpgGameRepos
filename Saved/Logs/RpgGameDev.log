@@ -720,3 +720,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.12-01.57.24:088][300]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.12-01.57.24:088][300]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.09.12-01.57.24:088][300]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.09.12-02.14.22:407][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.09.12-02.14.23:566][291]LogSavePackage: Moving 'C:/Users/brian/OneDrive/Documents/Unreal Projects/RpgGameDev/Saved/ThirdPersonExampleMap_Auto141491DF04F9B7E0C3286C892A30CAE8E.tmp' to 'C:/Users/brian/OneDrive/Documents/Unreal Projects/RpgGameDev/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.09.12-02.14.23:571][291]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.172
+[2020.09.12-02.14.23:571][291]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.172
